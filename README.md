@@ -1,2 +1,2 @@
 # ExercicioPython
- Um exercicio bastante simples.
+Repositorio para a resolução de exercicios. 
